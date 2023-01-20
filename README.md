@@ -100,11 +100,13 @@ Area : <input type="text" name="area" value="{{area}}"></input>m<sup>2</sup><br/
 
 ### Home Page:
 
-[05.pdf](https://github.com/Keerthanasampathkumar/serversideprocessing/files/10466966/05.pdf)
+![ex05-2](https://user-images.githubusercontent.com/119477890/213722542-d25c997c-1c4d-41de-9c6e-ebc4c4d95064.png)
+
 
 ### Calculations:
 
-[05 1.pdf](https://github.com/Keerthanasampathkumar/serversideprocessing/files/10466970/05.1.pdf)
+![ex05-1](https://user-images.githubusercontent.com/119477890/213722571-cec5e0d9-d327-498c-96f8-82b9eba4b837.png)
+
 
 
 
